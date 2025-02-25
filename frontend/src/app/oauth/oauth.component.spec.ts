@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
- * SPDX-License-Identifier: MIT
+ * SPDX-License-Identifier: MIT TEST TEST
  */
 
 import { type ComponentFixture, fakeAsync, TestBed, waitForAsync } from '@angular/core/testing'
